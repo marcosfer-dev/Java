@@ -1,6 +1,6 @@
-package pratica.equals;
+package pratica.colecoes.equals;
 
-import pratica.dominio.Pessoa;
+import pratica.colecoes.dominio.Pessoa;
 
 public class EqualsPratica01 {
     public static void main() {

@@ -1,4 +1,4 @@
-package pratica.dominio;
+package pratica.colecoes.dominio;
 
 public class Livro {
     private String isbn;

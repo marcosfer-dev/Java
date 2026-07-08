@@ -1,4 +1,4 @@
-package pratica.dominio;
+package pratica.colecoes.dominio;
 
 public class Pessoa {
     private String cpf;

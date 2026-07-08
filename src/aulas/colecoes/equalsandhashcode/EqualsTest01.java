@@ -1,4 +1,4 @@
-package aulas.colecoes.equals;
+package aulas.colecoes.equalsandhashcode;
 
 import aulas.colecoes.dominio.Smartphone;
 
